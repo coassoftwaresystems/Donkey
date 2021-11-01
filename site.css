@@ -93,6 +93,7 @@ div.download_button {
  display: inline-block;
  line-height: 1.5;
  margin-left: 20px;
+ min-width: 225px;
  padding: 10px;
  text-align: center;
  user-select: none;
